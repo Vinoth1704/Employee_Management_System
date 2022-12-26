@@ -1,0 +1,8 @@
+E:\Office\Console Application\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+E:\Office\Console Application\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+E:\Office\Console Application\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+E:\Office\Console Application\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+E:\Office\Console Application\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\Office\Console Application\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+E:\Office\Console Application\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+E:\Office\Console Application\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
